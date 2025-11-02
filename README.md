@@ -18,7 +18,7 @@
 
 ## 🏆 Achievements & Highlights  
 
-- 🏝 *Onchain Island Hackathon:* built Token Tracker using *Avalanche* & *0xGasless, secured **2nd rank* in tranche 1 ($75 prize).  
+- 🏝 *Onchain Island Hackathon:* built Token Tracker using *Avalanche* & *0xGasless*, secured **2nd rank** in tranche 1 **($75 prize)**.  
 - 🌒 *Cybersecurity* — identified a *clickjacking vulnerability* acknowledged by *NCIIPC*.  
 - 🧠 Active member of my college’s *technical community* — working on design and tech projects.  
 
