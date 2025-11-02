@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Adrija Karmakar  
 
 🎓 *B.Tech CSE (ICB)* student from *Kolkata, India*  
-💻 A curious mind wandering between *Web Development, **UI/UX Design, **Web3, and **Cybersecurity*.  
+💻 A curious mind wandering between *Web Development, **UI/UX Design**, **Web3**, and **Cybersecurity**.  
 😅 Currently dealing with skill issues, debugging life, and learning something new every single day.  
 
 ---
