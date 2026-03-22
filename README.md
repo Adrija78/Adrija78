@@ -1,53 +1,107 @@
 # 👋 Hey, I’m Adrija Karmakar  
 
-🎓 *B.Tech CSE (ICB)* student from **Kolkata**, *India*  
-💻 A curious mind wandering between **Web Development**, **UI/UX Design**, **Web3**, and **Cybersecurity**.  
-😅 Currently dealing with skill issues, debugging life, and learning something new every single day.  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Development+%7C+Web3+%7C+Cybersecurity;UI%2FUX+Designer;Hackathon+Builder;Debugging+Life+%F0%9F%98%85&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-CSE(ICB)-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Kolkata,%20India-green?style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Adrija78&label=Profile%20Views&color=blueviolet&style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🧭 About Me  
 
-- 🌐 Improving my *frontend & backend web dev* skills — currently obsessed with React and Node.js.  
-- ⛓ Exploring *Web3* — smart contracts, dApps, and decentralized systems.  
-- 🔒 Interested in *Cybersecurity* — identified a *clickjacking vulnerability* acknowledged by *NCIIPC*.  
-- 🎨 Passionate *UI/UX Designer* — love crafting clean, functional, and aesthetic user interfaces.  
-- 💡 Constantly switching between Figma frames and VS Code tabs.  
+🎓 *B.Tech CSE (ICB)* student from **Kolkata**, *India*  
+💻 A curious mind wandering between **Web Development**, **UI/UX Design**, **Web3**, and **Cybersecurity**  
+😅 Currently dealing with skill issues, debugging life, and learning something new every single day  
+
+---
+
+## ⚡ Current Focus  
+
+- 🌐 Improving my *frontend & backend web dev* skills — currently obsessed with **React and Node.js**  
+- ⛓ Exploring *Web3* — smart contracts, dApps, and decentralized systems  
+- 🔒 Interested in *Cybersecurity* — identified a *clickjacking vulnerability* acknowledged by *NCIIPC*  
+- 🎨 Passionate *UI/UX Designer* — love crafting clean, functional, and aesthetic user interfaces  
+- 💡 Constantly switching between Figma frames and VS Code tabs  
 
 ---
 
 ## 🏆 Achievements & Highlights  
 
-- 🏝 *Onchain Island Hackathon:* built Token Tracker using *Avalanche* & *0xGasless*, secured **2nd rank** in tranche 1 **($75 prize)**.  
-- 🌒 *Cybersecurity* — identified a *clickjacking vulnerability* acknowledged by *NCIIPC*.  
-- 🧠 Active member of my college’s *technical community* — working on design and tech projects.  
+- 🏝 *Onchain Island Hackathon:*  
+  Built **Token Tracker** using *Avalanche & 0xGasless*  
+  → 🥈 Secured **2nd rank** (**$75 prize**)  
+
+- 🌒 *Cybersecurity:*  
+  Identified a *clickjacking vulnerability* acknowledged by **NCIIPC**  
+
+- 🧠 Active member of my college’s *technical community* — working on design and tech projects  
 
 ---
 
-## 🧠 Tech & Tools  
+## 🚀 Tech & Tools  
 
-*Languages:*  
-C++ Python JavaScript  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,react,nodejs,solidity,figma,ai,ps,linux,git,github,vscode&perline=7"/>
+</p>
 
-*Web Development:*  
-HTML CSS React Node.js  
+---
 
-*Blockchain:*  
-Solidity Web3.js Avalanche  
+## 📊 GitHub Analytics  
 
-*Design:*  
-Figma Adobe Illustrator Photoshop  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Adrija78&show_icons=true&theme=tokyonight&border_radius=12" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Adrija78&theme=tokyonight&border_radius=12" height="170"/>
+</p>
 
-*Other Interests:*  
-Linux CTFs UI Animation Open Source  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adrija78&layout=compact&theme=tokyonight&border_radius=12" width="420"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Adrija78&theme=algolia&no-frame=true&margin-w=12"/>
+</p>
+
+---
+
+## 🚀 Featured Project  
+
+🔹 **InternPilot**  
+AI-powered resume analyzer & career assistant  
+
+✨ Features:  
+- Resume ↔ Job Description Matching  
+- Skill Gap Detection  
+- AI Career Roadmap  
+- Interview AI Simulator  
+
+🚧 Currently building & improving UI/UX  
 
 ---
 
 ## 🌍 Connect with Me  
 
-[💼 LinkedIn](https://www.linkedin.com/in/adrija-karmakar-9a639028a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-[🐦 X (Twitter)](https://x.com/Addyyy778?t=9UXE27uvLWi_j96DnGhHMQ&s=09)
+<p align="center">
+  <a href="https://www.linkedin.com/in/adrija-karmakar-9a639028a">
+    <img src="https://img.shields.io/badge/LinkedIn-Adrija-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://x.com/Addyyy778">
+    <img src="https://img.shields.io/badge/X-Twitter-black?style=for-the-badge&logo=twitter"/>
+  </a>
+</p>
 
 ---
 
-> "Design it. Break it. Fix it. Learn it. Repeat."
+## 💭 Philosophy  
+
+<p align="center">
+  <i>✨ "Design it. Break it. Fix it. Learn it. Repeat."</i>
+</p>
