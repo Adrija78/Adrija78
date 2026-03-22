@@ -64,18 +64,15 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🚀 Live Project  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Adrija78&theme=algolia&no-frame=true&margin-w=12"/>
+  <a href="https://internpilot-kappa.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Launch%20InternPilot-Live%20Demo-blueviolet?style=for-the-badge"/>
+  </a>
 </p>
 
----
-
-## 🚀 Featured Project  
-
-🔹 **InternPilot**  
-AI-powered resume analyzer & career assistant  
+🔹 **InternPilot** — AI-powered resume analyzer & career assistant  
 
 ✨ Features:  
 - Resume ↔ Job Description Matching  
